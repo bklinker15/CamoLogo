@@ -1,0 +1,9 @@
+c:\users\bwbas\documents\visual studio 2015\Projects\CamoLogo\CamoForm\bin\Debug\CamoForm.exe.config
+c:\users\bwbas\documents\visual studio 2015\Projects\CamoLogo\CamoForm\obj\Debug\CamoForm.csprojResolveAssemblyReference.cache
+c:\users\bwbas\documents\visual studio 2015\Projects\CamoLogo\CamoForm\obj\Debug\CamoForm.CamoForm.resources
+c:\users\bwbas\documents\visual studio 2015\Projects\CamoLogo\CamoForm\obj\Debug\CamoForm.Properties.Resources.resources
+c:\users\bwbas\documents\visual studio 2015\Projects\CamoLogo\CamoForm\obj\Debug\CamoForm.csproj.GenerateResource.Cache
+c:\users\bwbas\documents\visual studio 2015\Projects\CamoLogo\CamoForm\bin\Debug\CamoForm.exe
+c:\users\bwbas\documents\visual studio 2015\Projects\CamoLogo\CamoForm\bin\Debug\CamoForm.pdb
+c:\users\bwbas\documents\visual studio 2015\Projects\CamoLogo\CamoForm\obj\Debug\CamoForm.exe
+c:\users\bwbas\documents\visual studio 2015\Projects\CamoLogo\CamoForm\obj\Debug\CamoForm.pdb

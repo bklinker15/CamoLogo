@@ -1,0 +1,10 @@
+C:\Users\bwbas\documents\visual studio 2015\Projects\CamoLogo\CamoForm\bin\Release\CamoForm.exe.config
+C:\Users\bwbas\documents\visual studio 2015\Projects\CamoLogo\CamoForm\bin\Release\CamoForm.exe
+C:\Users\bwbas\documents\visual studio 2015\Projects\CamoLogo\CamoForm\bin\Release\CamoForm.pdb
+C:\Users\bwbas\documents\visual studio 2015\Projects\CamoLogo\CamoForm\obj\Release\CamoForm.CamoForm.resources
+C:\Users\bwbas\documents\visual studio 2015\Projects\CamoLogo\CamoForm\obj\Release\CamoForm.Properties.Resources.resources
+C:\Users\bwbas\documents\visual studio 2015\Projects\CamoLogo\CamoForm\obj\Release\CamoForm.csproj.GenerateResource.Cache
+C:\Users\bwbas\documents\visual studio 2015\Projects\CamoLogo\CamoForm\obj\Release\CamoForm.exe
+C:\Users\bwbas\documents\visual studio 2015\Projects\CamoLogo\CamoForm\obj\Release\CamoForm.pdb
+C:\Users\bwbas\documents\visual studio 2015\Projects\CamoLogo\CamoForm\bin\Release\CamoForm.exe.CodeAnalysisLog.xml
+C:\Users\bwbas\documents\visual studio 2015\Projects\CamoLogo\CamoForm\bin\Release\CamoForm.exe.lastcodeanalysissucceeded
